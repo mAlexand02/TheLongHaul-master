@@ -16,7 +16,7 @@ import { setCurrentUser, logoutUser } from "./actions/authActions";
 import { Provider } from "react-redux";
 import store from "./store";
 
-import "./App.css";
+
 
 // Check for token to keep user logged in
 if (localStorage.jwtToken) {
