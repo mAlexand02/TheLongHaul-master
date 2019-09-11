@@ -1,0 +1,20 @@
+body
+{
+  background-color: black;
+}
+
+#logo
+{
+  height: 600px;
+  width: 2000px;
+
+  position: relative;
+}
+.row
+{
+  padding-left: 0px;
+}
+.aligncard2
+{
+  padding-left:1200px;
+}
